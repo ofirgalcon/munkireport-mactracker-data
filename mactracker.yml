@@ -1,3 +1,10 @@
+# Mactracker UUIDs
+
+# open MacTracker.app and select the model you want to add
+# copy the UUID to the clipboard
+# paste it here in the format below 
+# the key is the model name and the value is the UUID
+
 # 2008
 'iMac (20-inch Early 2008)':
   MactrackerUUID: '7EAD115F-703F-47B0-8457-3BFA901DDF9D'
@@ -331,5 +338,15 @@
   MactrackerUUID: 'C7B7B45D-9CA6-49FA-8736-7E6F4BFDA882'
 'MacBook Pro (14-inch, M4, 2024)':
   MactrackerUUID: 'D68AA59D-A7D4-4DAC-B931-27C044443351'
+'MacBook Pro (14-inch, Nov 2024)':
+  MactrackerUUID: 'D68AA59D-A7D4-4DAC-B931-27C044443351'
 'MacBook Pro (16-inch, 2024)':
   MactrackerUUID: '5D880A53-2050-49C1-A3B6-B9CEF8E9E7CD' 
+
+# 2025
+'Mac Studio (2025)':
+  MactrackerUUID: 'A9A4E50B-13CC-4CF9-825B-E7C6A2C2E239'
+'MacBook Air (13-inch, M4, 2025)':
+  MactrackerUUID: 'A7221CA7-00F3-448B-8BD0-1D07BF80857A'
+'MacBook Air (15-inch, M4, 2025)':
+  MactrackerUUID: '985FA325-2205-4C60-AEA1-644343B2CCE9'
